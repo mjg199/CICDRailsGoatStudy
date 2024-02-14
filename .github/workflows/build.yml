@@ -20,5 +20,3 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
 
 
-sonar.projectKey=studyimf_studymjg
-sonar.organization=studyimf
